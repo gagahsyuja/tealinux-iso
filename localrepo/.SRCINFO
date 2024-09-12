@@ -1,0 +1,13 @@
+pkgbase = tealinux-installer-git
+	pkgdesc = TealinuxOS Installer, written in Tauri|Rust|SvelteKit.
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/tealinuxos/tealinux-installer
+	arch = x86_64
+	license = GPL
+	makedepends = cargo
+	depends = webkit2gtk
+	source = tealinux-installer_0.1.0_amd64.deb
+	sha256sums = a64c1bcd97aeab7eb2e8667dc03885ffb1732583d030ee94d306aa6d36614fe4
+
+pkgname = tealinux-installer-git
